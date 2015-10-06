@@ -1,6 +1,8 @@
 # "Cardio" One Page theme for Drupal 8
 
-"Cardio" is a one page website template made by [PHIr](http://www.phir.co/) exclusively for Codrops.
+"Cardio" is a one page website theme for Drupal 8 with bootstrap framework. Designed & Developed by Themeza
+
+Html version template made by [PHIr](http://www.phir.co/) exclusively for Codrops.
 
 [Download on Codrops](http://tympanus.net/codrops/?p=24301)
 
@@ -48,8 +50,6 @@ Other images from [Pixabay](https://pixabay.com/)
 
 ## Misc
 
-Follow us: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
-
-[© Codrops 2015](http://www.codrops.com)
+Follow us: [Twitter](https://twitter.com/arshinvangahi), [Linkedin](https://www.linkedin.com/in/arshinvangahi), [Google+](https://plus.google.com/u/0/+ARSHINVANGAHI), [GitHub](https://github.com/anarshi)
 
 
